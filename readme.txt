@@ -1,0 +1,1 @@
+java -jar ks2x509.jar my.keystore AliasÃû×Ö password1 password2
